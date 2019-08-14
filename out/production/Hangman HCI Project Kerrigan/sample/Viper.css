@@ -1,0 +1,18 @@
+.root{
+    -fx-background-color: #FFFFCD;
+    -fx-font-size: 10pt;
+
+
+
+}
+.label{
+    -fx-text-fill: orangered;
+}
+
+
+
+
+#bold-label{
+
+    -fx-font-weight: bold;
+}
